@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DINE24</string>
+    <string name="title_activity_cnfdlt">CnfdltActivity</string>
+    <string name="title_activity_slctuser">SlctuserActivity</string>
+</resources>
